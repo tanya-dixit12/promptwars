@@ -14,4 +14,11 @@
     "storage": null,
     "confidence": "high"
   }
+ {
+  "product": "cotton sarees",
+  "category": "apparel",
+  "color": "red, blue",
+  "location": "Surat",
+  "confidence": "high"
+}
 ]
