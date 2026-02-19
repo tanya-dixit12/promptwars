@@ -1,0 +1,15 @@
+{
+  "product": "industrial safety helmets",
+  "brand": null,
+  "category": "Safety Equipment",
+  "color": "yellow",
+  "size": null,
+  "material": null,
+  "quantity": "500 pieces",
+  "price_upper_limit": 50000,
+  "price_lower_limit": null,
+  "urgency": "normal",
+  "location": null,
+  "storage": null,
+  "confidence": "high"
+}
