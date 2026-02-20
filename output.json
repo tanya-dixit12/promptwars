@@ -2,5 +2,5 @@
   {
    "product": "sulfuric acid","category": "chemicals", "material": "industrial grade", "quantity": "500kg", "price_upper_limit": "15000", "location": "Ahmedabad"
   },
- { "product": "agarbatti", "category": "pooja items", "material": "sandalwood", "size": "20 sticks per box", "quantity": "1000 boxes", "packaging_type": "box", "use_case": "wholesale", "price_upper_limit": 50 },
+ { "product": "agarbatti", "category": "pooja items", "material": "sandalwood", "size": "20 sticks per box", "quantity": "1000 boxes", "packaging_type": "box", "use_case": "wholesale", "price_upper_limit": 50 }
 ]
